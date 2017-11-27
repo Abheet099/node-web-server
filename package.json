@@ -1,10 +1,10 @@
 {
   "name": "node-web-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.16.2",
+    "fs": "0.0.1-security",
     "hbs": "^4.0.1"
   },
   "devDependencies": {},
@@ -13,5 +13,14 @@
     "start": "node server.js"
   },
   "author": "abheet",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abheet099/node-web-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abheet099/node-web-server/issues"
+  },
+  "homepage": "https://github.com/Abheet099/node-web-server#readme",
+  "description": ""
 }
