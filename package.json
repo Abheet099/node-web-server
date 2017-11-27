@@ -2,7 +2,7 @@
   "name": "node-web-server",
   "version": "1.0.0",
   "main": "server.js",
-  "dependencies": {
+  "d  ependencies": {
     "express": "^4.16.2",
     "fs": "0.0.1-security",
     "hbs": "^4.0.1"
